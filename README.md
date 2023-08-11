@@ -1,7 +1,9 @@
 
-# Stockman   📦
+# ![Logo](img/logo-vertical-fundo-cinza.svg)
 
-Este repositório concentra todo o código fonte do nosso projeto final da disciplina de Introdução a Programação.
+
+Este repositório concentra todo o código fonte do nosso projeto final 
+da disciplina de Introdução a Programação.
 
 
 
@@ -66,5 +68,5 @@ Este programa está licenciado sob a licença
 
 
 
-![Logo](img/icone.svg)
+
 
