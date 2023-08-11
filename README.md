@@ -1,9 +1,7 @@
 
 # Stockman   📦
 
-    Este repositório concentra todo o código fonte do
-    nosso projeto final da disciplina de Introdução a
-    Programação.
+Este repositório concentra todo o código fonte do nosso projeto final da disciplina de Introdução a Programação.
 
 
 
