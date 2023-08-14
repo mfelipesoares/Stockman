@@ -48,7 +48,7 @@ do seguinte comando:
 
 **Escrito em:** Linguagem C. 
 
-**Banco de dados:** PostgreSQL. 
+**Banco de dados:** SQLite3. 
 
 
 ## Aprendizados 🧠
